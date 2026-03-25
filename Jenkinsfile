@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         IMAGE_NAME = 'my-flask-app'
-        CONTAINER_NAME = 'my-flask-container'
+        CONTAINER_NAME = 'my-flask-container2'
     }
 
     stages {
